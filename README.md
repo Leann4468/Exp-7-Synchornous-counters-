@@ -60,6 +60,7 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by:Leann Joby Mathew
 
 RegisterNumber: 212222230074
+
 */
 UP COUNTER :
 
